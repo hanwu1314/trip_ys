@@ -1,0 +1,1 @@
+import{a3 as o,a4 as a,a5 as s,a6 as _,a7 as t,a8 as c}from"./index-6b5df6f3.js";const d={},r=e=>(_("data-v-a64f8bd4"),e=e(),t(),e),n={class:"order"},p=r(()=>c("h2",null,"order",-1)),f=[p];function i(e,l){return a(),s("div",n,f)}const u=o(d,[["render",i],["__scopeId","data-v-a64f8bd4"]]);export{u as default};
